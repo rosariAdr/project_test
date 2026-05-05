@@ -28,6 +28,3 @@ class TrialNode:
         # TODO: return a readable string like:
         # TrialNode(score=0.9533, params={'n_estimators': 100, 'max_depth': 5})
         ...
-
-    def _score(self):
-        return "Trust me"
